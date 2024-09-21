@@ -6,7 +6,7 @@ import { FaTwitter } from "react-icons/fa6";
 import { GiHand } from "react-icons/gi";
 import { FaTelegramPlane } from "react-icons/fa";
 
-import picture from '../../websitedesignimages/heropicture.jpg'
+import picture from '../../websitedesignimages/women.avif'
 import Buttons from '../Buttons';
 
 
@@ -59,7 +59,7 @@ const HeroSection = () => {
 
 
           <h2>Frontend Developer</h2>
-          <p>Lorem ipsum,  sit amet consectetur adipisicing elit. Reiciendis est sequi, deleniti optio exercitationem, magni repellat totam rerum perspiciatis porro et tempora autem repudiandae iusto? Suscipit nesciunt illum consectetur quibusdam?</p>
+          <p>I specialize in creating visually appealing and user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I bring designs to life, ensuring seamless functionality across various devices. My goal is to enhance user experiences by combining creativity with technical skills. Let’s build something amazing together!</p>
         </div>
 
         <Buttons btnTitle={"Say Hello"} btnIcon={<FaTelegramPlane />} />

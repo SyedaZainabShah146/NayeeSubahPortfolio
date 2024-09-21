@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import { FiFile } from 'react-icons/fi'
-import aboutSectionImage from '../../websitedesignimages/heropicture.jpg'
+import aboutSectionImage from '../../websitedesignimages/women.avif'
 import { BiBadge, BiHeadphone } from 'react-icons/bi'
 import { BsBag } from 'react-icons/bs'
 import Buttons from '../Buttons'
@@ -63,7 +63,7 @@ const About = () => {
           </div>
 
           <p className='about-section-bottom-right-middle'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti sunt at quis a sit minus ut atque, architecto eius! Accusamus ratione esse dolore, suscipit dolorem deserunt rerum sed nesciunt culpa.
+          I specialize in creating visually appealing and user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I bring designs to life, ensuring seamless functionality across various devices. My goal is to enhance user experiences by combining creativity with technical skills. Let’s build something amazing together!
           </p>
 
           {/* <div className='herosection-name-container-button'>
